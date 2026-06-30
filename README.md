@@ -2,7 +2,7 @@
 
 A research draft proposing a structured framework to eliminate sycophantic behavior in LLMs — building AI systems that prioritize **objective truth** over user approval.
 
-> **Author:** Debarshi Das &nbsp;|&nbsp; **Date:** June 9, 2026
+> **Author:** Debarshi Das &nbsp;|&nbsp; **Date:** June 8, 2026
 
 ---
 
